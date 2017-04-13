@@ -1,0 +1,6 @@
+title: Vlad's Blog
+
+theme: minima
+
+exclude:
+- README.md
